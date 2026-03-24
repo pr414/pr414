@@ -1,7 +1,7 @@
 # Hi, I'm Paolo 👋
 
 I am a Computer Science and Engineering Master's student at Politecnico di Milano, specializing in Artificial Intelligence applied to Robotics.  
-My work focuses on bridging agen, semantic reasoning, and real-world scene understanding in robotic and agentic systems.
+My work focuses on bridging spatial-semantic reasoning, real-world scene understanding and human-robot interaction in robotic and embodied systems.
 
 Currently, I am focusing on **Large Language Models for Language-Driven Autonomous Robotics** for my Master's thesis, with previous work on **IoT architectures** and **SoC development** from my Bachelor's Thesis and Formula SAE experience.
 

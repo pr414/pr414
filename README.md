@@ -10,7 +10,7 @@ Currently, I am focusing on **Large Language Models for Language-Driven Autonomo
 ## About Me
 - 🎓 **Current:** Master's in Computer Science & Engineering (Artificial Intelligence) @ Politecnico di Milano  
 - 🔬 **Research:** Large Language Models and Semantic-Spatial Memory in Robotic Agents, VLMs for Scene-understanding, Human-Robot interaction
-- 🏗 **Background:** Former Electronics Division Member at UniBS Motorsport & Research Assistant at the eLUX Laboratory (University of Brescia)  
+- 🏗 **Background:** Former Electronics Division Member at UniBS Motorsport & Post-Bachelor Research Intern at the eLUX Laboratory (University of Brescia)  
 - 🎲 **Interests:** Embodied AI in Robotics, Natural Language Processing (LLMs/VLMs), Reinforcement Learning
 - 🎯 **Life Goal:** Recreate "GLaDOS" from Portal 2 and summon it in the real world
 

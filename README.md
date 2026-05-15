@@ -47,5 +47,5 @@ Currently, I am focusing on **Large Language Models for Language-Driven Autonomo
 ---
 
 ## 📫 Get in Touch
-- **Email:** paolo13.riva@mail.polimi.it  
+- **Email:** paolo13.riva(at)mail.polimi.it  
 - **LinkedIn:** *linkedin.com/in/rivapaolo/*
